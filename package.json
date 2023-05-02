@@ -1,0 +1,11 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "this is an example",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "matthew morton",
+  "license": "UNLICENSED"
+}
